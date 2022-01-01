@@ -1,4 +1,4 @@
-**RendyTM** _main_
+**Rendy™** _main_
 
 Note :
 
@@ -34,6 +34,9 @@ Database (Bank):
 1. #0-2 Shape color(RGB) / Special flag
 2. #3 Line stroke
 3. #4-5 Shape XY(0-176)
-4. #6-7 (_Rect_)Width and Height | (_Poly_)Sides and Radius
+4. #6-7 (_Rect_)Width and Height | (_Poly_)Sides and Radius | (_Image_)Image no. and Size
 5. #8 Rotation for _poly_
 6. #9 Custom shape(If _config#3_ set to 6)
+
+Error code library:
+WIP.
