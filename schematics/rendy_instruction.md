@@ -37,6 +37,3 @@ Database (Bank):
 4. #6-7 (_Rect_)Width and Height | (_Poly_)Sides and Radius | (_Image_)Image no. and Size
 5. #8 Rotation for _poly_
 6. #9 Custom shape(If _config#3_ set to 6)
-
-Error code library:
-WIP.
