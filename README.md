@@ -11,3 +11,7 @@ instruction included in schem.
 2. **MSTR**
 first **smart AI** built-in thorium reactor in the game!
 dynamic power output depend on power usage and fuel save.
+
+3. **ZenithNetwork**
+You can now send **number** across the map!
+with the help of Zenith unit's flag.
