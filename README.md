@@ -7,6 +7,7 @@ List of all schem :
 Shape renderer in mindustry!
 can render upto 46 shape at a time (due to bank size limit).
 instruction included in schem.
+*Note : This creation will not fully work in V5 and V6
 
 2. **MSTR**
 first **smart AI** built-in thorium reactor in the game!
