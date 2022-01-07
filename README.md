@@ -27,3 +27,5 @@ Rendy :
 3. MAKE FONT!!!
 4. Of course INTERNET(lol how am I gonna do it? ans : comm using unit flag
 5. all command will be using special flag like RRRGGGBBB set to -004063001 is to write 1 to 63 in ram
+
+if this come true, it will be the best thing in mindustry trust me, this is my dream.
