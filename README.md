@@ -29,3 +29,9 @@ Rendy :
 5. all command will be using special flag like RRRGGGBBB set to -004063001 is to write 1 to 63 in ram
 
 if this come true, it will be the best thing in mindustry trust me, this is my dream.
+
+FAQ :
+1. How do I download file in /schematics/? | ans : Click the file then click view raw.
+2. How do I use Rendy? | ans : go in /schematics/rendy_instruction.md
+
+for more question DM me
