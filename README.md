@@ -25,7 +25,7 @@ Rendy :
 1. Add jump, logic, control, ram to be function like programmable computer
 2. Compress some row like : RRRGGGBBBSSSXXXYYY and more, use 0 if that digit was 0 like 014, so it can support up to 512 shape!!
 3. MAKE FONT!!!
-4. Of course INTERNET(lol how am I gonna do it? ans : comm using unit flag
+4. Of course INTERNET(lol how am I gonna do it? ans : comm using unit flag)
 5. all command will be using special flag like RRRGGGBBB set to -004063001 is to write 1 to 63 in ram
 
 if this come true, it will be the best thing in mindustry trust me, this is my dream.
